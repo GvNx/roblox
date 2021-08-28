@@ -1,9 +1,5 @@
-@@ -6,10 +6,75 @@ This Was Last Updated 8/27/2021 (8:21PM [Central Daylight Time/GMT-5])
-	- Added Audios (No Shit)
 	- Not an update but sorry if any audio id's are repeated!
 	- New Discord Server. >> https://discord.gg/jPd9PjzH5H <<
-	- Added the older list of audios because cows moo and cats have claws!
-
 
 --
 
@@ -75,7 +71,7 @@
 3415475807
 5643084029
 5667617575
-@ -226,2272 +291,4 @@ The Hood (BYPASSED)
+The Hood (BYPASSED)
 7219769627 - choo list 
 7219769141 - spazz
 7346102840 - lil peep / top_vibes / short intro (LOUD)
