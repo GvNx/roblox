@@ -1,0 +1,35 @@
+[ From - https://www.reddit.com/r/robloxhackers/comments/lrhr09/script_that_blocks_the_screenshot_what_reported/gopszot/ ]
+
+"As most of you know, 
+Roblox has implemented
+a feature that has a 50% chance
+of screenshoting your Roblox Client
+when you get reported, 
+exposing any gui that you are using."
+
+"I recommend that if your exploit has an autoexecute, 
+you add this script to it. 
+Otherwise, you have to execute it manually
+every time you join a game."
+
+------------
+
+Lua
+
+setfflag("AbuseReportScreenshot", "False")
+setfflag("AbuseReportScreenshotPercentage", "0")
+
+------------
+
+Download
+
+* .lua
+  https://cdn.discordapp.com/attachments/881214667148656670/886684835488354336/ReportSSPrevention.lua
+
+* .txt
+  https://cdn.discordapp.com/attachments/881214667148656670/886685097254867044/ReportSSPrevention.txt
+
+------------
+
+
+
